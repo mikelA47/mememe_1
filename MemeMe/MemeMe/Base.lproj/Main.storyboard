@@ -174,10 +174,10 @@
             </objects>
             <point key="canvasLocation" x="1220" y="-581"/>
         </scene>
-        <!--SentMemeDetailViewController-->
+        <!--Sent Meme Detail View Controller-->
         <scene sceneID="9vE-3C-giv">
             <objects>
-                <viewController storyboardIdentifier="SentMemeDetailViewController" title="SentMemeDetailViewController" id="ulk-xN-VbR" customClass="SentMemeDetailViewController" customModule="MemeMe" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController storyboardIdentifier="SentMemeDetailViewController" id="ulk-xN-VbR" customClass="SentMemeDetailViewController" customModule="MemeMe" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="BPQ-5a-VAD"/>
                         <viewControllerLayoutGuide type="bottom" id="Zba-oK-cYD"/>
